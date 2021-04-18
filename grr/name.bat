@@ -1,0 +1,1 @@
+exim -i name.txt PLAYERSKILLNAMETABLE.TBL
