@@ -20,7 +20,7 @@ OriginTablets.Types.MBM
   "Performs a follow-up attack on an enemy[F8 01]hit by an ice attack this turn.[F8 01]",
   "Performs a follow-up attack on an enemy[F8 01]hit by a volt attack this turn.[F8 01]",
   "Melee bash attack to 1 enemy.[F8 01]Slow.[F8 01]",
-  "Melee bash attack to 1 enemy.[F8 01]Decreases infliction chance.[F8 01]",
+  "Melee bash attack that absorbs some[F8 01]damage dealt as HP.[F8 01]",
   "Melee bash attack to 1 enemy.[F8 01]Decreases attack.[F8 01]",
   "Allows the user to find more resources[F8 01]at certain mining spots.[F8 01]",
   "Melee cut attack sacrificing accuracy[F8 01]for power. Missing blinds all enemies.[F8 01]",

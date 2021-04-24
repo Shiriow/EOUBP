@@ -20,7 +20,7 @@ OriginTablets.Types.Table
   "Ice Chaser",
   "Volt Chaser",
   "Power Crush",
-  "Balance Kill",
+  "Bloodbath",
   "Attack Kill",
   "Mine",
   "Blinding Slap",
