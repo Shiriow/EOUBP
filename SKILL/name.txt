@@ -6,7 +6,7 @@ OriginTablets.Types.Table
   "TP Up",
   "ATK Up",
   "DEF Up",
-  "Axe Mastery",
+  "Switch Axe Mastery",
   "Sword Mastery",
   "Triple Strike",
   "War Cry",
