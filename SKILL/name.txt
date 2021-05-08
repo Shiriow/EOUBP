@@ -7,7 +7,7 @@ OriginTablets.Types.Table
   "ATK Up",
   "DEF Up",
   "SwitchAxe Mastery",
-  "Sword Mastery",
+  "Crit Up",
   "Triple Strike",
   "War Cry",
   "Strike Chaser",
