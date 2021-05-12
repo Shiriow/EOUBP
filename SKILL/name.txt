@@ -230,7 +230,7 @@ OriginTablets.Types.Table
   "Lightning Stab",
   "Drawing Stance",
   "Beheading Cut",
-  "Charging Slash",
+  "Ground Strike",
   "Frigid Slash",
   "Mine",
   "Indomitable Cry",
