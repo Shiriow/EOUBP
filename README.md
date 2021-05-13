@@ -1,6 +1,6 @@
 # EOUBP <br />
  <br />
-A personal mod for EOU, mostly changes classes Im currently using on my run: Landkneshcet, Ronin, Medic, Survivalist and Protector <br />
+A personal mod for EOU, mostly changes classes Im currently using on my run: Landsknecht, Ronin, Medic, Survivalist and Protector <br />
 Includes TildeHats Gladheim and Story Classes mod, and Glitch's Transparency Mod (although incorrect for changed skills) <br />
 
 No full changelog since Im constantly changing things, but basically: <br />
@@ -62,3 +62,8 @@ Fortify merged into Provoke <br />
 Fortify now passively reduces phys damage to the users row (untested) <br />
 Engarde now affects the users row (untested) <br />
 Various TP reductions <br />
+
+
+No plans to change other classes, and these changes are balanced around my party (Triple Strike with Vulcan Stance might be too good?)
+
+
