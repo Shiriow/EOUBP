@@ -45,12 +45,12 @@ Chasers were replaced by Phys Chaser, Elem Chaser, Hex Chaser <br />
 Head Bash replaced by Attack Kill - deal bash damage and debuff phys attack (same values as Hexers) <br />
 Stunning Bash replaced by Bloodbath - bash damage and drain HP <br />
 Boomerang Axe has same mods as vanilla Raging Edge <br />
-Raging Edge has same mods as vanilla Boomerang Axe, and is now Cut+Volt, Pierces, and 200% speed <br />
+Raging Edge has same mods as vanilla Boomerang Axe, and is now Cut+Volt 200% speed, and debuffs evasion <br />
 Power Crush no longer pierces; is slower and deals more damage <br />
 Double Strike is now Triple Strike, chance of 2 or 3 normal attacks (EO4 Sword Dance) <br />
 Axe Mastery is now SwitchAxe Mastery, increases Sword and Axe damage <br />
-Sword Mastery has been replaced by Crit Up <br />
-Def Up has been replaced by Bushi Prof <br />
+Sword Mastery has been replaced by Bushi Prof <br />
+Def Up has been replaced by EO4 Guard Mastery <br />
 Savage Cry now 200% speed <br />
 Recover now ally target <br />
 Various TP reductions <br />
