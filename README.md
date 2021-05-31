@@ -10,6 +10,7 @@ Several skill requirements were toned down, for example:  <br />
 Prayer no longer requires an absurd amount of SP to get, and Elem Chasers and Double Strike no longer requires both Masteries <br />
 Some quest monster drops are easier to get, <br />
 Nectars, Imbue Items, and T1 elemental items no longer require their requirements to be in stock <br />
+Gather skills are now 5sp, with the Survivalists ones being 3sp <br />
 
 
 Survivalist has been buffed:  <br />
