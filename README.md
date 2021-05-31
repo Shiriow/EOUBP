@@ -16,8 +16,7 @@ Survivalist has been buffed:  <br />
 Mastery increases damage by 30%,  <br />
 Power Shot is now Stab+Fire and Pierces,  <br />
 Disabling Shot damage up,  <br />
-Multi Shot cheaper, damage down but has higher hit count <br />
-Sagi Arrow cheaper <br />
+Multi Shot damage down but has higher hit count <br />
 Trickery now targets a row, and deals damage <br />
 Chain Dance and Endorphins buffed <br />
 Hasten targets a row, and also increases evasion <br />
@@ -29,6 +28,7 @@ Various TP reductions <br />
 
 Ronin: <br />
 Charging Stab is now EO2Us Ground Strike <br />
+Buffed Arm Strike <br />
 Skills that require stances to be used, aside from the 3 major ones, can be used in any stance <br />
 Changed the duration of stances: Upper 3T, Clear 4T, Drawing 5T (and increased evasion) <br />
 
