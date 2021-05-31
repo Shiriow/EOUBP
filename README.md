@@ -16,7 +16,7 @@ Survivalist has been buffed:  <br />
 Mastery increases damage by 30%,  <br />
 Power Shot is now Stab+Fire and Pierces,  <br />
 Disabling Shot damage up,  <br />
-Multi Shot cheaper, damage down but is now 2-3 hits <br />
+Multi Shot cheaper, damage down but has higher hit count <br />
 Sagi Arrow cheaper <br />
 Trickery now targets a row, and deals damage <br />
 Chain Dance and Endorphins buffed <br />
