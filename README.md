@@ -48,8 +48,8 @@ Boomerang Axe has same mods as vanilla Raging Edge <br />
 Raging Edge has same mods as vanilla Boomerang Axe, and is now Cut+Volt 200% speed, and debuffs evasion <br />
 Power Crush no longer pierces; is slower and deals more damage <br />
 Double Strike is now Triple Strike, chance of 2 or 3 normal attacks (EO4 Sword Dance) <br />
-Axe Mastery is now SwitchAxe Mastery, increases Sword and Axe damage <br />
-Sword Mastery has been replaced by Bushi Prof <br />
+Sword Mastery is now SwitchAxe Mastery, increases Sword and Axe damage <br />
+Axe Mastery has been replaced by EO4 Bushi Prof <br />
 Def Up has been replaced by EO4 Guard Mastery <br />
 Savage Cry now 200% speed <br />
 Recover now ally target <br />
@@ -58,7 +58,6 @@ Various TP reductions <br />
 
 Protector: <br />
 Cure renamed to Clemency, targets a row <br />
-Prayer now also recovers a % of maxTP (temp?) <br />
 Fortify merged into Provoke <br />
 Fortify now passively reduces phys damage to the users row (untested) <br />
 Engarde now affects the users row (untested) <br />
