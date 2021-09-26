@@ -1,11 +1,13 @@
-# EOUBP <br />
- <br />
+
  
  Get this first: https://github.com/Tildehat/EOU-Classic-Mod/releases/latest
  
- Use Kuriimu to merge the 6 folders of my mod into the MORI
+ Use Kuriimu to merge the 6 folders of my mod into the MORI:
  
+ Open the Mori in Kuriimu, right click MORI->Replace, pick the folder where the 6 modded folders are and Kuriimu will automatically replace the files in the MORI, Save
  
+ # EOUBP <br />
+ <br />
 A lazily balanced, personal mod for EOU, mostly changes classes Im currently using on my run: Landsknecht, Ronin, Medic, Survivalist and Protector <br />
 Includes TildeHats Gladheim and Story Classes mod, and Glitch's Transparency Mod (although incorrect for changed skills) <br />
 
