@@ -6,7 +6,7 @@
  Use Kuriimu to merge the 6 folders of my mod into the MORI
  
  
-A personal mod for EOU, mostly changes classes Im currently using on my run: Landsknecht, Ronin, Medic, Survivalist and Protector <br />
+A lazily balanced, personal mod for EOU, mostly changes classes Im currently using on my run: Landsknecht, Ronin, Medic, Survivalist and Protector <br />
 Includes TildeHats Gladheim and Story Classes mod, and Glitch's Transparency Mod (although incorrect for changed skills) <br />
 
 No full changelog since Im constantly changing things, but basically: <br />
